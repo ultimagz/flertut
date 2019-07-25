@@ -1,4 +1,4 @@
-# flertut_app
+# flertut
 
 Sample Flutter App
 
